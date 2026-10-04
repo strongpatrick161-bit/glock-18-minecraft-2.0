@@ -1,0 +1,8 @@
+{
+  "item.tacticalpistol.tactical_pistol": "Tactical Pistol",
+  "item.tacticalpistol.ammo_9x19": "9\u00d719mm Ammo",
+  "item.tacticalpistol.red_dot": "Red Dot Sight",
+  "item.tacticalpistol.suppressor": "Suppressor",
+  "item.tacticalpistol.extended_mag": "Extended Magazine",
+  "itemGroup.tacticalpistol": "Tactical Gear"
+}

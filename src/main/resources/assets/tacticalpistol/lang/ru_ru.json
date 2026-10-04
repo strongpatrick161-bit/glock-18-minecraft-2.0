@@ -1,0 +1,8 @@
+{
+  "item.tacticalpistol.tactical_pistol": "Тактический пистолет",
+  "item.tacticalpistol.ammo_9x19": "Патроны 9×19 мм",
+  "item.tacticalpistol.red_dot": "Коллиматорный прицел",
+  "item.tacticalpistol.suppressor": "Глушитель",
+  "item.tacticalpistol.extended_mag": "Увеличенный магазин",
+  "itemGroup.tacticalpistol": "Тактическое снаряжение"
+}
